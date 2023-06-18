@@ -70,7 +70,7 @@
 
 <br>
 
-IP-адрес 84.201.128.3
+IP 84.201.128.3
 
 Frontend [https://genevy.nomoredomains.rocks](https://genevy.nomoredomains.rocks)
 
