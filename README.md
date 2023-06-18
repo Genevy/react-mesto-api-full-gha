@@ -8,7 +8,7 @@
 <br>
 <div align="center">
 
-[![Статус тестов](../../actions/workflows/tests.yml/badge.svg)](../../actions/workflows/tests.yml)
+[![Tests](https://github.com/Genevy/react-mesto-api-full-gha/actions/workflows/tests.yml/badge.svg)](https://github.com/Genevy/react-mesto-api-full-gha/actions/workflows/tests.yml)
 
 </div>
 <br>
